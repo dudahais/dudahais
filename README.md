@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por Front-End.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
  - 📍 Itajaí, Santa Catarina 
  - 💻 HTML, CSS, JS, BootStrap 
